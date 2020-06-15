@@ -19,8 +19,6 @@ Options:
   -c FILE, --cpart=FILE
                         Please enter an IP paragraph (e.g. 127.0.0)
 
-
-
 URL:
 python3 netCscan.py -u https://www.demo.com/
 
