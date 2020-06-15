@@ -20,8 +20,10 @@ Options:
                         Please enter an IP paragraph (e.g. 127.0.0)
 
 
+
 URL:
 python3 netCscan.py -u https://www.demo.com/
 
 IP:
 python3 netCscan.py -c 127.0.0.1
+
