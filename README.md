@@ -19,4 +19,3 @@ python3 netCscan.py -u https://www.demo.com/
 IP:
 python3 netCscan.py -c 127.0.0.1
 
-![image](https://github.com/nmyzxiaojian/netCscan-C-/blob/master/url.jpg)
